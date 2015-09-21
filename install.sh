@@ -7,9 +7,9 @@ git clone https://github.com/Huskynarr/ebesucher_pi.git
 cd ebesucher_pi
 
 # We made it!
-echo -e \e[32m"Done!"
+echo -e "\e[32mDone!"
 
 
-echo "You want to start?"
-
+echo -e "\e[39mYou want to start?"
+echo "Please start manually: ./restarter.sh"
 
